@@ -13,3 +13,8 @@
   "sn": {
     "main": "dist/dist.css"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hkp2k/sn-theme-grey-scale.git"
+  }
+}
