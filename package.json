@@ -3,10 +3,10 @@
   "name": "Grey Scale",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Grey Scale theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/hkp2k/sn-theme-grey-scale@1.0.4/dist/dist.css",
-  "download_url": "https://github.com/hkp2k/sn-theme-grey-scale/archive/1.0.4.zip",
+  "url": "https://cdn.jsdelivr.net/gh/hkp2k/sn-theme-grey-scale@1.0.5/dist/dist.css",
+  "download_url": "https://github.com/hkp2k/sn-theme-grey-scale/archive/1.0.5.zip",
   "latest_url": "https:/listed.to/p/ulDglx5etc",
   "marketing_url": "https://github.com/hkp2k/sn-theme-grey-scale"
 }
